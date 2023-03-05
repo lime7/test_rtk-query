@@ -35,9 +35,7 @@ lerna-debug.log
 /.changelog
 .npm/
 yarn.lock
-
-.prettierrc
-.prettierrc.json
 package-lock.json
 
-secrets.txt
+
+.env
